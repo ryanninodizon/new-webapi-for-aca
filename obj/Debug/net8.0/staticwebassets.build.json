@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k/R+SjTbOE822xghsCChRrnR8NEzKqMt/NTIjJgOUjs=",
+  "Source": "CA-webapi",
+  "BasePath": "_content/CA-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
